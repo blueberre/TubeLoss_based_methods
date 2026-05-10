@@ -1,0 +1,55 @@
+TubeLoss delta for calibration PICP target — boston
+  target PICP        : 0.9000
+  reported delta     : 0.0191  (interpolated)
+  exact grid delta   : none within ±0.0005
+  interpolated delta : 0.0191
+  closest grid delta : 0.0130 (PICP=0.9010, |diff|=0.0010)
+
+TubeLoss delta for calibration PICP target — concrete
+  target PICP        : 0.9000
+  reported delta     : 0.0066  (interpolated)
+  exact grid delta   : none within ±0.0005
+  interpolated delta : 0.0066
+  closest grid delta : 0.0070 (PICP=0.8981, |diff|=0.0019)
+
+TubeLoss delta for calibration PICP target — energy
+  target PICP        : 0.9000
+  reported delta     : 0.0064  (interpolated)
+  exact grid delta   : none within ±0.0005
+  interpolated delta : 0.0064
+  closest grid delta : 0.0050 (PICP=0.9026, |diff|=0.0026)
+
+TubeLoss delta for calibration PICP target — protein
+  target PICP        : 0.9000
+  reported delta     : 0.0030  (exact)
+  exact grid delta   : 0.0030 (PICP=0.8997, tol=±0.0005)
+  interpolated delta : 0.0029
+  closest grid delta : 0.0030 (PICP=0.8997, |diff|=0.0003)
+
+TubeLoss delta for calibration PICP target — wine
+  target PICP        : 0.9000
+  reported delta     : 0.0127  (interpolated)
+  exact grid delta   : none within ±0.0005
+  interpolated delta : 0.0127
+  closest grid delta : 0.0130 (PICP=0.9031, |diff|=0.0031)
+
+TubeLoss delta for calibration PICP target — synthetic
+  target PICP        : 0.9000
+  reported delta     : 0.0150  (exact)
+  exact grid delta   : 0.0150 (PICP=0.9000, tol=±0.0005)
+  interpolated delta : 0.0150
+  closest grid delta : 0.0150 (PICP=0.9000, |diff|=0.0000)
+
+TubeLoss delta for calibration PICP target — power
+  target PICP        : 0.9000
+  reported delta     : 0.0196  (interpolated)
+  exact grid delta   : none within ±0.0005
+  interpolated delta : 0.0196
+  closest grid delta : 0.0200 (PICP=0.8992, |diff|=0.0008)
+
+TubeLoss delta for calibration PICP target — yacht
+  target PICP        : 0.9000
+  reported delta     : 0.0016  (interpolated)
+  exact grid delta   : none within ±0.0005
+  interpolated delta : 0.0016
+  closest grid delta : 0.0000 (PICP=0.9032, |diff|=0.0032)

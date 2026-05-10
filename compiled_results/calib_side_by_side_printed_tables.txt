@@ -1,0 +1,135 @@
+TubeLoss delta for calibration PICP target — boston
+  target PICP        : 0.9000
+  reported delta     : 0.0191  (interpolated)
+  exact grid delta   : none within ±0.0005
+  interpolated delta : 0.0191
+  closest grid delta : 0.0130 (PICP=0.9010, |diff|=0.0010)
+
+Dataset: boston
+===============
+                   Tubeloss                                 Quantile               
+    method_name     PICP     MPIW    q_hat   method_name     PICP     MPIW    q_hat
+0   Tube Loss     0.9010  24.6090      NaN   Pinball Loss  0.9109  27.1111      NaN
+1   TCQR          0.9109  25.0811   0.2360   CQR           0.9109  26.9312  -0.0900
+2   TCQR-r        0.9109  25.0787   0.0095   CQR-r         0.9109  26.9423  -0.0031
+3   UATCQR-S      0.9109  26.3768   1.2734   UACQR-S       0.9109  25.7531  -0.6053
+4   UATCQR-P      0.9109  27.9284  36.0000   UACQR-P       0.9109  23.5346   8.0000
+
+TubeLoss delta for calibration PICP target — concrete
+  target PICP        : 0.9000
+  reported delta     : 0.0066  (interpolated)
+  exact grid delta   : none within ±0.0005
+  interpolated delta : 0.0066
+  closest grid delta : 0.0070 (PICP=0.8981, |diff|=0.0019)
+
+Dataset: concrete
+=================
+                   Tubeloss                                 Quantile               
+    method_name     PICP     MPIW    q_hat   method_name     PICP     MPIW    q_hat
+0   Tube Loss     0.9029  43.1534      NaN   Pinball Loss  0.9369  62.9662      NaN
+1   TCQR          0.9078  43.2726   0.0596   CQR           0.9078  60.9617  -1.0022
+2   TCQR-r        0.9078  43.2637   0.0013   CQR-r         0.9078  61.0434  -0.0153
+3   UATCQR-S      0.9078  43.2163   0.0104   UACQR-S       0.9078  57.8768  -0.1523
+4   UATCQR-P      0.9126  51.8876  27.0000   UACQR-P       0.9078  57.2683  30.0000
+
+TubeLoss delta for calibration PICP target — energy
+  target PICP        : 0.9000
+  reported delta     : 0.0064  (interpolated)
+  exact grid delta   : none within ±0.0005
+  interpolated delta : 0.0064
+  closest grid delta : 0.0050 (PICP=0.9026, |diff|=0.0026)
+
+Dataset: energy
+===============
+                   Tubeloss                                 Quantile               
+    method_name     PICP     MPIW    q_hat   method_name     PICP     MPIW    q_hat
+0   Tube Loss     0.9026  25.4863      NaN   Pinball Loss  0.8636  18.0718      NaN
+1   TCQR          0.9091  25.5042   0.0089   CQR           0.9091  18.6393   0.2838
+2   TCQR-r        0.9091  25.5040   0.0003   CQR-r         0.9091  18.5526   0.0133
+3   UATCQR-S      0.9091  25.4984   0.0117   UACQR-S       0.9091  19.8191   0.3666
+4   UATCQR-P      0.9091  25.8177  23.0000   UACQR-P       0.9091  22.5443  20.0000
+
+TubeLoss delta for calibration PICP target — protein
+  target PICP        : 0.9000
+  reported delta     : 0.0030  (exact)
+  exact grid delta   : 0.0030 (PICP=0.8997, tol=±0.0005)
+  interpolated delta : 0.0029
+  closest grid delta : 0.0030 (PICP=0.8997, |diff|=0.0003)
+
+Dataset: protein
+================
+                   Tubeloss                                 Quantile               
+    method_name     PICP     MPIW    q_hat   method_name     PICP     MPIW    q_hat
+0   Tube Loss     0.9026  17.2090      NaN   Pinball Loss  0.9028  16.5883      NaN
+1   TCQR          0.9002  17.1838  -0.0126   CQR           0.9002  16.5469  -0.0207
+2   TCQR-r        0.9002  17.1827  -0.0008   CQR-r         0.9002  16.5512  -0.0011
+3   UATCQR-S      0.9002  17.1762  -0.1478   UACQR-S       0.9002  16.5279  -0.0655
+4   UATCQR-P      0.9006  17.3027  15.0000   UACQR-P       0.9009  16.6810  18.0000
+
+TubeLoss delta for calibration PICP target — wine
+  target PICP        : 0.9000
+  reported delta     : 0.0127  (interpolated)
+  exact grid delta   : none within ±0.0005
+  interpolated delta : 0.0127
+  closest grid delta : 0.0130 (PICP=0.9031, |diff|=0.0031)
+
+Dataset: wine
+=============
+                   Tubeloss                                Quantile              
+    method_name     PICP    MPIW    q_hat   method_name     PICP    MPIW    q_hat
+0   Tube Loss     0.9031  2.1215      NaN   Pinball Loss  0.9188  2.4803      NaN
+1   TCQR          0.9031  2.1208  -0.0004   CQR           0.9031  2.2602  -0.1100
+2   TCQR-r        0.9031  2.1208  -0.0002   CQR-r         0.9031  2.2529  -0.0458
+3   UATCQR-S      0.9031  2.1150  -0.0402   UACQR-S       0.9031  2.2601  -0.4851
+4   UATCQR-P      0.9031  2.3224  21.0000   UACQR-P       0.9031  2.3106  26.0000
+
+TubeLoss delta for calibration PICP target — synthetic
+  target PICP        : 0.9000
+  reported delta     : 0.0150  (exact)
+  exact grid delta   : 0.0150 (PICP=0.9000, tol=±0.0005)
+  interpolated delta : 0.0150
+  closest grid delta : 0.0150 (PICP=0.9000, |diff|=0.0000)
+
+Dataset: synthetic
+==================
+                  Tubeloss                                Quantile              
+    method_name     PICP    MPIW   q_hat   method_name     PICP    MPIW    q_hat
+0   Tube Loss     0.9000  2.5113     NaN   Pinball Loss  0.9020  2.6140      NaN
+1   TCQR          0.9020  2.5461  0.0174   CQR           0.9020  2.5913  -0.0113
+2   TCQR-r        0.9020  2.5462  0.0069   CQR-r         0.9020  2.5916  -0.0043
+3   UATCQR-S      0.9020  2.5329  0.2935   UACQR-S       0.9020  2.6064  -0.3330
+4   UATCQR-P      0.9020  2.5299  7.0000   UACQR-P       0.9020  2.6202  38.0000
+
+TubeLoss delta for calibration PICP target — power
+  target PICP        : 0.9000
+  reported delta     : 0.0196  (interpolated)
+  exact grid delta   : none within ±0.0005
+  interpolated delta : 0.0196
+  closest grid delta : 0.0200 (PICP=0.8992, |diff|=0.0008)
+
+Dataset: power
+==============
+                   Tubeloss                                 Quantile               
+    method_name     PICP     MPIW    q_hat   method_name     PICP     MPIW    q_hat
+0   Tube Loss     0.9013  18.0502      NaN   Pinball Loss  0.8887  31.2096      NaN
+1   TCQR          0.9007  18.0478  -0.0012   CQR           0.9007  31.8240   0.3072
+2   TCQR-r        0.9007  18.0482  -0.0001   CQR-r         0.9007  31.9167   0.0113
+3   UATCQR-S      0.9007  18.0412  -0.0019   UACQR-S       0.9007  32.6924   0.2299
+4   UATCQR-P      0.9018  22.3897  21.0000   UACQR-P       0.9013  36.7164  16.0000
+
+TubeLoss delta for calibration PICP target — yacht
+  target PICP        : 0.9000
+  reported delta     : 0.0016  (interpolated)
+  exact grid delta   : none within ±0.0005
+  interpolated delta : 0.0016
+  closest grid delta : 0.0000 (PICP=0.9032, |diff|=0.0032)
+
+Dataset: yacht
+==============
+                   Tubeloss                                 Quantile               
+    method_name     PICP     MPIW    q_hat   method_name     PICP     MPIW    q_hat
+0   Tube Loss     0.9194  50.9236      NaN   Pinball Loss  0.8065  39.5995      NaN
+1   TCQR          0.9194  50.9144  -0.0046   CQR           0.9194  41.0326   0.7165
+2   TCQR-r        0.9194  50.9145  -0.0001   CQR-r         0.9194  41.0215   0.0180
+3   UATCQR-S      0.9194  50.9079  -0.0074   UACQR-S       0.9194  43.2370   1.0827
+4   UATCQR-P      0.9194  53.5526  47.0000   UACQR-P       1.0000      inf  51.0000
